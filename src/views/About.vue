@@ -6,12 +6,11 @@
       </template>
       
       <div class="about-content">
-        <p>BookSwapNUTC 是一個專為台中科技大學學生設計的二手教科書交換平台。</p>
-        
-        <h3>我們的使命</h3>
+        <p>BookSwapNUTC 是一個為台中科技大學學生設計的二手教科書交換平台。</p>
+
+        <h3>平台特色</h3>
         <p>我們的使命是幫助學生節省教科書開支，同時減少資源浪費，促進校園內的資源共享和循環利用。</p>
         
-        <h3>平台特色</h3>
         <ul>
           <li>專為 NUTC 學生設計，確保交易安全</li>
           <li>簡單易用的界面，方便快速發佈和查找書籍</li>
@@ -20,11 +19,10 @@
         </ul>
         
         <h3>聯絡我們</h3>
-        <p>如果您有任何問題、建議或合作意向，請通過以下方式聯絡我們：</p>
+        <p>如果您有任何問題或建議，請透過下列方式聯絡我們：</p>
         <p>電子郵件：<a href="mailto:contact@bookswapnutc.com">jcode0x378@gmail.com</a></p>
         
-        <h3>開發團隊</h3>
-        <p>BookSwapNUTC 由一群熱愛創新的 NUTC 學生開發和維護。</p>
+        <p>BookSwapNUTC 由台中科技大學學生開發和維護。</p>
       </div>
     </el-card>
   </div>
